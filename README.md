@@ -5,6 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="logo.jpg" alt="Logo dự án" width="400"/>
+  <img src="logo.jpg" alt="Logo dự án" width="2000"/>
 </div>
 
