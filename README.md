@@ -44,7 +44,7 @@ Báo cáo có thể xem trực tiếp trên web hoặc xuất ra file Word
 Giao diện thân thiện, dễ sử dụng, hỗ trợ chọn file hoặc kéo-thả
 
 📸 Demo Giao Diện
-<div align="center"> <img src="images/demo.jpg" alt="Demo ứng dụng" width="800"/> </div> ```
+<div align="center"> <img src="demo.jpg" alt="Demo ứng dụng" width="800"/> </div> 
 📌 Giải thích:
 
 logo.jpg → logo bạn đã upload.
